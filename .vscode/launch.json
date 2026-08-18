@@ -1,0 +1,14 @@
+﻿{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Run Banking System",
+            "request": "launch",
+            "mainClass": "Application",
+            "projectName": "BankingSystem",
+            "classPaths": ["${workspaceFolder}/bin"],
+            "cwd": "${workspaceFolder}"
+        }
+    ]
+}
